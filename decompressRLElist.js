@@ -26,4 +26,4 @@ var decompressRLElist = function(nums) {
 };
 console.log(decompressRLElist([1,2,3,4,5,6]));
 
-// Output >> console.log(decompressRLElist([1,2,3,4,5,6]));
+// Output >> 2,4,4,4,6,6,6,6,6
